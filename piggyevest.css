@@ -98,6 +98,10 @@ nav{background-color: #f2f7f8; z-index: 1000;}
     font-size: 14px;
 }
 
+.menus>div a:hover{
+    color: #000;
+}
+
 .cont{
     display: grid;
     grid-template-columns: 1fr 1fr;
